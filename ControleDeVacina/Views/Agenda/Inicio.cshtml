@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<h2>Inicio</h2>
+<hr>
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Agenda</h5>
+                <p class="card-text">@ViewBag["Agendamentos"] agendamentos.</p>
+                <a href="/NovoAgendamento" class="btn btn-primary">Visualizar Detalhes</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Vacina</h5>
+                <p class="card-text">Cadastre uma nova vacina na sua agenda.</p>
+                <a href="Agenda" class="btn btn-primary">Cadastrar</a>
+            </div>
+        </div>
+    </div>
+</div>

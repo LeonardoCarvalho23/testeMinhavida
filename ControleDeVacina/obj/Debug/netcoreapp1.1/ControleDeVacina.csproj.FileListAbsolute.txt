@@ -1,0 +1,20 @@
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.deps.json
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.runtimeconfig.json
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.runtimeconfig.dev.json
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.dll
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.pdb
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\ControleDeVacina.csprojResolveAssemblyReference.cache
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\ControleDeVacina.AssemblyInfo.cs
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\ControleDeVacina.dll
+c:\users\leona\documents\visual studio 2017\Projects\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\ControleDeVacina.pdb
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.deps.json
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.runtimeconfig.json
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.runtimeconfig.dev.json
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\ControleDeVacina.AssemblyInfo.cs
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\ControleDeVacina.dll
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\ControleDeVacina.pdb
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.dll
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\bin\Debug\netcoreapp1.1\ControleDeVacina.pdb
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\projetos\git\code-challenge\ControleDeVacina\ControleDeVacina\obj\Debug\netcoreapp1.1\ControleDeVacina.csprojResolveAssemblyReference.cache

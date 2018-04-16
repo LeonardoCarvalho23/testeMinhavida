@@ -1,0 +1,39 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using ControleDeVacina.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    @*<ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">
+            <span class="nav-link">Olá @UserManager.GetUserName(User)!</span>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Logout" title="Sair">Sair</a>
+           
+        </li>
+    </ul>*@
+    <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" id="logoutForm" class="navbar-right">
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a class="nav-link" asp-area="" asp-controller="Manage" asp-action="Index" title="Manage">Olá @UserManager.GetUserName(User)!</a>
+            </li>
+            <li>
+                <button type="submit" class="btn btn-link navbar-btn nav-link">Log out</button>
+            </li>
+        </ul>
+    </form>
+}
+else
+{
+    <ul class="nav navbar-nav mr-auto navbar-right">
+        <li class="nav-item">
+            <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Register">Cadastrar</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Login">Entrar</a>
+        </li>
+    </ul>
+}
